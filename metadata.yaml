@@ -1,0 +1,46 @@
+_repo: Cargo-to-Callisto_64632
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mayan, Earl
+    alias: Mayan, Earl Eugene
+    birthdate: 1916
+    deathdate: 2009
+    gutenberg_agent_id: '52636'
+    url: http://www.gutenberg.org/2009/agents/52636
+    wikipedia: https://en.wikipedia.org/wiki/Earl_Mayan
+creator:
+  author:
+    agent_name: Bixby, Jerome
+    aliases:
+    - Neal, Harry
+    - Bixby, Jerry
+    - Bixby, Jay Lewis
+    - Bixby, Drexel Jerome Lewis
+    - Lewis, D.B.
+    - Lewis, D. B.
+    - Drexel, Jay B.
+    birthdate: 1923
+    deathdate: 1998
+    gutenberg_agent_id: '34130'
+    url: http://www.gutenberg.org/2009/agents/34130
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_Bixby
+description: ''
+gutenberg_issued: '2021-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Escaped prisoners -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- GITenberg
+title: Cargo to Callisto
+url: http://www.gutenberg.org/ebooks/64632
